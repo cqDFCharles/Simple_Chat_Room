@@ -1,0 +1,2 @@
+E:\code\c++code\desktest\desktest\Debug\desktest.exe
+E:\code\c++code\desktest\chatRoom\Debug\desktest.exe

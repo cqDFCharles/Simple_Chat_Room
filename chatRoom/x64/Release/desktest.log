@@ -1,0 +1,8 @@
+﻿  desktest.cpp
+E:\code\c++code\desktest\chatRoom\desktest.cpp(21,18): warning C4101: “msg”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+E:\code\c++code\desktest\chatRoom\desktest.cpp(186): warning C4715: “connectServer”: 不是所有的控件路径都返回值
+  已完成代码的生成
+  desktest.vcxproj -> E:\code\c++code\desktest\chatRoom\x64\Release\desktest.exe
